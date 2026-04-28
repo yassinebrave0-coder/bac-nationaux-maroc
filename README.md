@@ -5,7 +5,7 @@ Tous les examens nationaux du Baccalauréat (Maroc) pour la filière **Sciences 
 ## Contenu
 
 - **preuves/** : Sujets d'examens (2016-2024)
-  - Mathématiques, Physique-Chimie, SVT, Philosophie, Anglais, Arabe, Français, Histoire-Géographie, Islamique
+  - Mathématiques, Physique-Chimie, SVT, Philosophie, Anglais
   - Sessions : Normal + Rattrapage
 - **corrections/** : Corrigés d'examens (2016-2024)
   - Même structure que les preuves
